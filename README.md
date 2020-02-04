@@ -1,4 +1,4 @@
-# nodejs koa vuejs Web开发框架(未使用vue-cli脚手架版本)
+# nodejs+koa+vuejs Web开发框架(未使用vue-cli脚手架版本)
 ### 作者：eaglet liyaohua8468@gmail.com
 ### 天津市工业大学 计算机科学与软件学院 天津市大学软件学院
 
