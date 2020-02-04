@@ -1,0 +1,19 @@
+{
+  "name": "nodejs_koa_vue_framework",
+  "version": "1.0.0",
+  "description": "nodejs_koa_vue",
+  "main": "app.js",
+  "dependencies": {
+    "koa": "^2.6.2",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "supervisor app.js"
+  },
+  "author": "e4glet",
+  "license": "ISC"
+}
